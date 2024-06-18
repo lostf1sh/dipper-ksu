@@ -1,8 +1,8 @@
 name: BuildnCheck
 
 env:
-  kernel_repository: PixelExperience-Devices/kernel_xiaomi_sdm845
-  kernel_branch: fourteen
+  kernel_repository: LineageOS/android_kernel_xiaomi_sdm845
+  kernel_branch: lineage-1
   device: dipper
   clang_version: r487747c
   defconfig: |
